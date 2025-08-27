@@ -72,4 +72,4 @@ thesis-main/
 ```
 
 ## Full Technical Report
-Full technical report with background, detailed methods, results, and discussion is included, titled: 'Technical_Report.pdf' !!!
+Full technical report with background, detailed methods, results, and discussion is included, titled: 'Technical_Report.pdf' :)
