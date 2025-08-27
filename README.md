@@ -70,3 +70,6 @@ thesis-main/
 ├── performance.txt       # Performance comparison results
 └── Technical_Report.pdf  # Full thesis document
 ```
+
+## Full Technical Report
+Full technical report is included, titled 'Technical_Report.pdf'!
