@@ -8,7 +8,7 @@ Full technical report with detailed background, methods, results, and discussion
 
 This project demonstrates that TF structural families can be accurately predicted from binding specificity patterns encoded in position weight matrices (PWMs). We compare k-nearest neighbors (KNN) and deep learning approaches, achieving ~82-84% accuracy on 2,113 motifs across 20 TF families from JASPAR.
 
-## Key Results
+## Key Performance Results
 
 - **KNN Baseline**: 84.2% accuracy, 0.765 macro-F1
 - **Deep Learning**: 82.2% accuracy, 0.785 macro-F1
@@ -35,7 +35,7 @@ This project demonstrates that TF structural families can be accurately predicte
 - Feature importance via Integrated Gradients
 - Stratified k-fold cross-validation (k=5,10,20)
 
-## Key Findings
+## Other Key Analyses
 
 1. **Performance Ceiling**: Both methods appear to approach an inherent limit set by binding specificity overlap between TF families
 2. **Family-Specific Patterns**: Models successfully capture canonical recognition sequences
