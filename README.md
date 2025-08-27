@@ -2,6 +2,8 @@
 
 Machine learning methods to predict transcription factor (TF) structural families directly from DNA-binding specificity motifs.
 
+Full technical report with detailed background, methods, results, and discussion is included, titled: 'Technical_Report.pdf'
+
 ## Overview
 
 This project demonstrates that TF structural families can be accurately predicted from binding specificity patterns encoded in position weight matrices (PWMs). We compare k-nearest neighbors (KNN) and deep learning approaches, achieving ~82-84% accuracy on 2,113 motifs across 20 TF families from JASPAR.
@@ -70,7 +72,3 @@ thesis-main/
 ├── performance.txt       # Performance comparison results
 └── Technical_Report.pdf  # Full thesis document
 ```
-
-## Full Technical Report
-Full technical report with background, detailed methods, results, and discussion is included, titled: 'Technical_Report.pdf'
-
