@@ -1,0 +1,35 @@
+# ─── Project-specific data ────────────────────────────────────────────────
+# keep large TSVs, CSVs, HDF5, binaries, etc. out of Git
+performance_limit/
+*.tsv
+*.csv
+*.pkl
+*.meme
+
+# ─── Python ───────────────────────────────────────────────────────────────
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# ─── Jupyter ──────────────────────────────────────────────────────────────
+.ipynb_checkpoints
+
+# ─── Logs and temp files ─────────────────────────────────────────────────
+*.log
+*.tmp
+*.swp
+
+# ─── macOS / Windows system files ─────────────────────────────────────────
+.DS_Store
+Thumbs.db
