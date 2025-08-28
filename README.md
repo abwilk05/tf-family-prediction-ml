@@ -1,4 +1,4 @@
-# Transcription Factor Family Prediction from Binding Specificity
+# Transcription Factor Family Prediction from DNA-Binding Data
 
 Machine learning methods to predict transcription factor (TF) structural families directly from DNA-binding specificity motifs.
 
@@ -38,8 +38,7 @@ This project demonstrates that TF structural families can be accurately predicte
 ## Other Key Analyses
 
 1. **Performance Ceiling**: Both methods appear to approach an inherent limit set by binding specificity overlap between TF families
-2. **Family-Specific Patterns**: Models successfully capture canonical recognition sequences
-3. **Motif Similarity Analysis**: Family overlap metrics explain 61% (DL) and 45% (KNN) of per-class performance variance
+2. **Family-Specific Patterns**: Deep learning model successfully capture canonical recognition sequences
 
 ## Repository Structure
 
